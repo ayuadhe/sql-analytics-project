@@ -13,7 +13,7 @@ SQL Functions Used:
 ===============================================================================
 */
 
--- Yearly Revenue Trend
+-- 1. Yearly Revenue Trend
 select 
 	extract(year from order_date) as year,
 	sum(sales_amount) as total_revenue,
@@ -24,8 +24,7 @@ where order_date is not null
 group by 1
 order by 1 desc;
 
-
--- Monthly Revenue Trend by Year
+-- 2. Monthly Revenue Trend by Year
 -- DATE_TRUNC (DATE)
 select 
 	date_trunc('month', order_date) as order_date,
