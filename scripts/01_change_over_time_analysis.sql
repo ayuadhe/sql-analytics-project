@@ -24,6 +24,7 @@ where order_date is not null
 group by 1
 order by 1 desc;
 
+
 -- 2. Monthly Revenue Trend by Year
 -- DATE_TRUNC (DATE)
 select 
