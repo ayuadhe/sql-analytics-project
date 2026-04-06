@@ -18,7 +18,5 @@ This project demonstrates comprehensive analytics using SQL, applying key techni
 5. Segmentation Analysis
 6. Ranking Analysis
 7. Pareto Analysis
-8. Customer Report
-9. Product Report
 
 
