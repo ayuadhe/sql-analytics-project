@@ -19,4 +19,14 @@ This project demonstrates comprehensive analytics using SQL, applying key techni
 6. Ranking Analysis
 7. Pareto Analysis
 
+### SQL Skills Demonstrated
+1. Aggregate Functions
+2. Date Functions
+3. Numeric Functions
+4. Conditional Logic
+5. Joins
+6. Subqueries
+7. Common Table Expressions (CTEs)
+8. Window Functions
+
 
