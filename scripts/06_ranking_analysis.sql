@@ -13,7 +13,7 @@ SQL Functions Used:
      - Window Functions    : RANK() OVER()
      - Aggregate Functions : SUM(), COUNT()
      - Joins               : LEFT JOIN
-     - Conditional         : LIMIT, WHERE
+     - Conditional Logic   : LIMIT, WHERE
 
 ================================================================================
 */
