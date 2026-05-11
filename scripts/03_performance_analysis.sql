@@ -12,9 +12,8 @@ SQL Functions Used:
      - Window Functions : LAG() OVER(), AVG() OVER()
      - Aggregate Functions : SUM(), COUNT()
      - Date Functions : DATE_TRUNC(), EXTRACT()
-     - Date Functions : DATE_TRUNC(), EXTRACT()
      - Joins : LEFT JOIN
-     - Conditional : CASE WHEN, NULLIF()
+     - Conditional Logic : CASE WHEN, NULLIF()
 
 ================================================================================
 */
