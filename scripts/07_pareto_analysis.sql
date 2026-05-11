@@ -11,7 +11,7 @@ SQL Functions Used:
     - Window Functions    : SUM() OVER(), COUNT() OVER()
     - Aggregate Functions : SUM()
     - Numeric Functions   : ROUND()
-    - Conditional         : WHERE
+    - Conditional Logic   : WHERE
     - Joins               : LEFT JOIN
 
 ===============================================================================
