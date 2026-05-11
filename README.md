@@ -1,4 +1,4 @@
-# SQL Analytics Projects
+# SQL Data Analytics & Business Insights
 
 This project demonstrates comprehensive analytics using SQL, applying key techniques commonly used in business intelligence and data analysis. It addresses critical business questions related to trends, performance, customer behavior, and product insights. Each script focuses on a specific analytical theme, using clean, well-structured SQL that reflects real-world practices.
 
